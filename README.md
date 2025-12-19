@@ -11,8 +11,8 @@ The code:
 4. Socket communication between producer and consumer
 
 The authors are: 
-1. Nandiso Shabalala
-2. Thandolwethu Shongwe 
+1. Nandiso Shabalala (202101623 - B.Sc.IT)
+2. Thandolwethu Shongwe (202102913)
 
 
 

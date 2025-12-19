@@ -12,7 +12,7 @@ The code:
 
 The authors are: 
 1. Nandiso Shabalala (202101623 - B.Sc.IT)
-2. Thandolwethu Shongwe (202102913)
+2. Thandolwethu Shongwe (202102913 - B.Sc.IT)
 
 
 
